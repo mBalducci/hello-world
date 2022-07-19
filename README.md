@@ -4,10 +4,10 @@
 1. uno
 2. due
 
-	```
+```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-	```
+```
